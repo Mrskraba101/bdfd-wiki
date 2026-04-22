@@ -11,7 +11,8 @@ $clear
 ```
 
 ```admonish warning
-Discord doesn't allow deleting messages in bulk which are over 2 weeks old.
+1. Discord doesn't allow deleting messages in bulk which are over 2 weeks old.
+2. $clear alone cannot be used without arguments in slash commands.
 ```
 
 ### Permissions
