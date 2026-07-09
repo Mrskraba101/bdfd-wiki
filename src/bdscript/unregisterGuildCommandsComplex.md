@@ -30,3 +30,6 @@ Successfully unregistered the provided guild slash commands!
   content: |
     Successfully unregistered the provided guild slash commands!
 ```
+```admonish question title="What is this?"
+How [`$unescape[]`](./unescape.md), [`$toLowercase[]`](./toLowercase.md), [`$replaceText[]`](./replaceText.md), [`$trimSpace[]`](./trimSpace.md) and [`$message`](./message.md) works?
+```
