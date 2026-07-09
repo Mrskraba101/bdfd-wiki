@@ -16,4 +16,17 @@ $nomention
 $unregisterGuildCommands[$unescape[$toLowercase[$replaceText[$trimSpace[$message]; ;]]]]
 Successfully unregistered the provided guild slash commands!
 ```
-![example](https://user-images.githubusercontent.com/95774950/198040479-f19497a7-e93b-4695-95fb-d8b629be5a1d.png)
+``` discord yaml
+- user_id: 1081869405245407262
+  username: mrskraba101
+  color: "#E67E22"
+  content: |
+    !example help ; anime-search ; eval
+- user_id: 1009018156494368798
+  username: BDFD Support
+  color: "#378afa"
+  bot: true
+  verified: true
+  content: |
+    Successfully unregistered the provided guild slash commands!
+```
