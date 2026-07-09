@@ -12,4 +12,17 @@ $nomention
 $unregisterGuildCommands
 Successfully unregistered all guild slash commands!
 ```
-![example](https://user-images.githubusercontent.com/95774950/198040434-101a9391-7f93-457a-b59e-adb8a7eda6b3.png)
+``` discord yaml
+- user_id: 1081869405245407262
+  username: mrskraba101
+  color: "#E67E22"
+  content: |
+    !example
+- user_id: 1009018156494368798
+  username: BDFD Support
+  color: "#378afa"
+  bot: true
+  verified: true
+  content: |
+    Successfully unregistered all guild slash commands!
+```
