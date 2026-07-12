@@ -9,7 +9,7 @@ $commandName
 ## Example
 ```
 $nomention
-Commmand name: $commandName
+Command name: $commandName
 ```
 
 ``` discord yaml
